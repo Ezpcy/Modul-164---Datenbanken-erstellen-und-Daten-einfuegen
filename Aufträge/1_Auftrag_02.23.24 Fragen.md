@@ -11,7 +11,7 @@ Anomalien bezeichnen in der Datenbanktheorie Fehler, die durch die Strukturierun
 - Änderungsanomalie: Änderungen an einem Datensatz müssen an mehreren Stellen vorgenommen werden.
 
 **Gibt es redundante "Daten"? Warum?**
-Ja, es gibt redundante Daten. Das liegt daran, dass Daten in einer Datenbank nicht nur in einer Tabelle gespeichert werden, sondern auch in anderen Tabellen, die mit der ersten Tabelle in Beziehung stehen. Das ist notwendig, um die Daten zu strukturieren und zu verknüpfen.
+Auf der Ebene von Daten lassen sich Redundanzen nicht definieren. Redundanzen gibt es nur auf der Ebene von Informationen.
 
 **Datenstrukturierung: Welche zwei Aspekte können strukturiert werden? Welche Kategorien (Abstufungen) gibt es bei der Strukturierung? Und wie müssen die Daten in einer DB strukturiert sein?**
 Bei der Datenstrukturierung können zwei Aspekte strukturiert werden: die Daten selbst und die Beziehungen zwischen den Daten. Die drei Katgorien der Strukturierung sind:
@@ -28,7 +28,7 @@ In einer Datenbank müssen Daten so strukturiert sein, so dass sie dem Datenbank
 
 1. **Name der Tabelle**
 2. **Primärschlüssel**
-3. **Tabellenname**
+3. **Name der Tabellenreihe**
 4. **Tabellenzeile**
 
 > **Quellen**: https://de.wikipedia.org/wiki/Anomalie_(Informatik)
