@@ -14,7 +14,7 @@ Anomalien bezeichnen in der Datenbanktheorie Fehler, die durch die Strukturierun
 Auf der Ebene von Daten lassen sich Redundanzen nicht definieren. Redundanzen gibt es nur auf der Ebene von Informationen.
 
 **Datenstrukturierung: Welche zwei Aspekte können strukturiert werden? Welche Kategorien (Abstufungen) gibt es bei der Strukturierung? Und wie müssen die Daten in einer DB strukturiert sein?**
-Bei der Datenstrukturierung können zwei Aspekte strukturiert werden: die Daten selbst und die Beziehungen zwischen den Daten. Die drei Katgorien der Strukturierung sind:
+Bei der Datenstrukturierung können zwei Aspekte strukturiert werden: Das ERD und die Datenbezeichnung. Die drei Katgorien der Strukturierung sind:
 
 1. Unstrukturierte Daten
 2. Strukturierte Daten
