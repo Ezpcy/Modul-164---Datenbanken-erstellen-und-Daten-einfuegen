@@ -17,4 +17,5 @@ Eine **Partition** ist eine Division einer logischen Datenbank oder ihren konsti
 Eine **Storage Engine** ist ein Bestandteil eines Datenbankmanagementsystems (DBMS), der für die Verwaltung von Speicher und die Organisation von Daten verantwortlich ist. Die **Storage Engine** ist für die Speicherung, das Abrufen und die Verwaltung von Daten in einer Datenbank verantwortlich. Die **Storage Engine** ist ein wichtiger Bestandteil eines DBMS, da sie die Datenbankleistung und -funktionalität beeinflusst. Ihre wesentliche Aufgabe besteht in sogenannten CRUD-Operationen (Create, Read, Update, Delete) und der Verwaltung von Indizes. Die meisten **DBMS** haben ihre eigene **Storage Engine** die die Interaktion mit der unerliegenden Engine übernimmt.
 
 > **Quelle**:
-> [IBM](https://www.ibm.com/docs/en/db2/11.1?topic=databases-table-spaces) > [Wikipedia](<https://en.wikipedia.org/wiki/Partition_(database)>)
+> [IBM](https://www.ibm.com/docs/en/db2/11.1?topic=databases-table-spaces)
+> [Wikipedia](<https://en.wikipedia.org/wiki/Partition_(database)>)
