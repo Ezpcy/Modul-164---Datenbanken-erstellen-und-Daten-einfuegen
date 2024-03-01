@@ -22,4 +22,4 @@ Es gibt verschiedene Arten von DBMS, die je nach Anwendungsfall und Anforderunge
 
 ## Mindmap - Kapitel 1 - 3
 
-![alt text](../x_ressources/mindmap.png)
+![alt text](../../x_ressources/mindmap.png)
