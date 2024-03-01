@@ -29,6 +29,6 @@ In einer Datenbank müssen Daten so strukturiert sein, so dass sie dem Datenbank
 1. **Name der Tabelle**
 2. **Primärschlüssel**
 3. **Name der Tabellenreihe**
-4. **Tabellenzeile**
+4. **Tabellenreihe**
 
 > **Quellen**: https://de.wikipedia.org/wiki/Anomalie_(Informatik)

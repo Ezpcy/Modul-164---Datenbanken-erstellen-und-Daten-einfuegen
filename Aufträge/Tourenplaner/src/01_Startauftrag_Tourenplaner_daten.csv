@@ -1,0 +1,12 @@
+ID_Fahrt,FahrzeugKennzeichen,SitzPlaetze,Disponent,Stationen
+1,ZG 2012,30,"Name:Andreas Disponento,Telefonnummer:044111111","Station: 6340 Baar,Abfahrtszeit:2021-08-01 10:00:00,Fahrer:Tomaso Drivero,Telefonnummer:079111115
+Station: 8001 Zürich,Ankunftszeit:2021-08-01 11:30:00"
+2,ZH 203434,34,"Name:Sandra Disponenta,Telefonnummer:044111112","Station: 6000 Luzern,Abfahrtszeit:2021-08-02 07:00:00,Fahrer:Vanessa Drivera,Telefonnummer:079111117
+Station: 8001 Zürich,Ankunftszeit:2021-08-02 08:40:00,Abfahrtszeit:2021-08-02 09:00:00,Fahrer:John Driver,Telefonnummer:079111116
+Station: 4000 Basel,Ankunftszeit:2021-08-02 09:50:00,Abfahrtszeit:2021-08-02 10:00:00,Fahrer:John Driver,Telefonnummer:079111116
+Station: 6340 Baar,Ankunftszeit:2021-08-02 13:00:00"
+3,ZG 2012,30,"Name:Andreas Disponento,Telefonnummer:044111111","Station: 1000 Geneva,Abfahrtszeit:2021-08-03 10:00:00,Fahrer:Tomaso Drivero,Telefonnummer:079111115
+Station: 6340 Baar,Ankunftszeit:2021-08-03 11:50:00,Abfahrtszeit:2021-08-03 12:00:00,Fahrer:Tomaso Drivero,Telefonnummer:079111115
+Station: 8001 Zürich,Ankunftszeit:2021-08-03 14:00:00"
+4,GE 12043,10,"Name:Sandra Disponenta,Telefonnummer:044111112","Station: 8001 Zürich,Abfahrtszeit:2021-08-04 10:00:00,Fahrer:Vanessa Drivera,Telefonnummer:079111117
+Station: 6000 Luzern,Ankunftszeit:2021-08-04 11:00:00"
