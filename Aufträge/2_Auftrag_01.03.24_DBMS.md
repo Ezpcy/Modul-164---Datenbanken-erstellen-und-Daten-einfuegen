@@ -19,3 +19,7 @@ Ein Datenbankmanagementsystem (DBMS) ist ein Systemsoftwarepaket, das Computeran
 ## Arten von DBMS
 
 Es gibt verschiedene Arten von DBMS, die je nach Anwendungsfall und Anforderungen eingesetzt werden. Einige der gängigen Arten von DBMS sind:
+
+## Mindmap - Kapitel 1 - 3
+
+![alt text](../x_ressources/mindmap.png)
