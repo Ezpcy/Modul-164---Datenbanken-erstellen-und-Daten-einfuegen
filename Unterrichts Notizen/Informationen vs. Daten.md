@@ -21,7 +21,7 @@ Auf der Ebene von Daten kann man die Redundanz nicht definieren. Redundanz gibt 
 Durch das ERD (Entity-Relationship-Diagramm) und Datenbezeichung.
 
 - **Erhebung**: Erfolgt auf:
-  - **Inhalt => Datentype**
+  - **Inhalt => Datentyp**
   - **Form => Struktur**
 
 ![alt text](../x_ressources/1708675968385.jpg)
