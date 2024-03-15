@@ -20,6 +20,14 @@ Ein Datenbankmanagementsystem (DBMS) ist ein Systemsoftwarepaket, das Computeran
 
 Es gibt verschiedene Arten von DBMS, die je nach Anwendungsfall und Anforderungen eingesetzt werden. Einige der gängigen Arten von DBMS sind:
 
+- **Relationale DBMS (RDBMS)**: Ein RDBMS ist ein DBMS, das auf dem relationalen Datenbankmodell basiert. Es ermöglicht die Speicherung und Verwaltung von Daten in Tabellen, die miteinander in Beziehung stehen.
+
+- **NoSQL DBMS**: Ein NoSQL-DBMS ist ein DBMS, das nicht auf dem relationalen Datenbankmodell basiert. Es ermöglicht die Speicherung und Verwaltung von nicht-relationalen Daten, die in verschiedenen Formaten wie Dokumenten, Graphen und Schlüssel-Wert-Paaren vorliegen.
+
+- **Objektorientiertes DBMS (OODBMS)**: Ein OODBMS ist ein DBMS, das auf dem objektorientierten Datenbankmodell basiert. Es ermöglicht die Speicherung und Verwaltung von Daten in Form von Objekten, die Eigenschaften und Methoden haben.
+
+- **Datenbanken in der Cloud**: Ein Cloud-DBMS ist ein DBMS, das in der Cloud gehostet wird. Es ermöglicht die Speicherung und Verwaltung von Daten in der Cloud, was Skalierbarkeit, Flexibilität und Kosteneffizienz bietet.
+
 ## Mindmap - Kapitel 1 - 3
 
 ![alt text](../../x_ressources/mindmap.png)

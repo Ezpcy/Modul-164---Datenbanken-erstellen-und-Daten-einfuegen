@@ -145,7 +145,8 @@ WHERE
 
 --@block
 /* Die Spalte «filme» soll nach «kinofilme» umbenannt werden. */
-ALTER TABLE bluray_sammlung CHANGE COLUMN film kinofilme varchar(255);
+ALTER TABLE bluray_sammlung
+RENAME COLUMN film TO kinofilme;
 
 --@block
 /* Die Spalte Nummer wird nicht mehr benötigt. Löschen Sie sie. */
