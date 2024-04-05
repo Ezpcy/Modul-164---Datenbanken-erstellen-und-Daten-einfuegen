@@ -34,9 +34,9 @@ add column geaendert_am datetime;
 
 update KundenInfo
 set
-    Kontostand = 101000
+    Kontostand = Kontostand + 1000
 where
-    Kontostand = 100000.00;
+    kontoNummer = "12345";
 
 select
     ID_Kunde,
@@ -47,7 +47,7 @@ from
     KundenInfo
 where
     Nachname like "Par%"
-    or Kontonummer > 3322
+    or Kontonummer > "3322"
     and Kontostand <= 100.00
 order by
     Nachname asc,

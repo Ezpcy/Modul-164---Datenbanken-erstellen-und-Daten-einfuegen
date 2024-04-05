@@ -131,6 +131,7 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 ## Analyse
 
 1. **Allgemeiner Syntax für CONSTRAINT-Anweisungen**
+
    ```sql
    CONSTRAINT <Name_der_Fremdschlüssel>
    FOREIGN KEY (<Name_der_Spalte>)
@@ -138,7 +139,9 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
    ON DELETE <Aktion>
    ON UPDATE <Aktion>
    ```
+
    - Beispiel:
+
    ```sql
    CREATE TABLE `tbl_Mytbl` (
      `ID_Mytbl` INT NOT NULL AUTO_INCREMENT,
@@ -151,6 +154,7 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
        ON DELETE NO ACTION
        ON UPDATE NO ACTION)
    ```
+
 2. **Erstellen von NOT NULL-Constraints bei Fremdschlüsseln**
 
    - Beispiel:
@@ -204,11 +208,13 @@ ALTER TABLE <DetailTab>
   REFERENCES <MasterTab> (Primärschlüssel);
 ```
 
-## ALTER TABLE <> ADD CONSTRAINT <> FOREIGN KEY ...
+## ALTER TABLE <> ADD CONSTRAINT <> FOREIGN KEY
 
 Mit ALTER TABLE können Fremdschlüssel manuell auch nachträglich eingefügt werden.
 
 Fremdschlüssel hinzufügen:
+
+>
 
 ```sql
 
@@ -218,7 +224,7 @@ ALTER TABLE <DetailTab>
 
 ```
 
-| `<Wert>`            | Erklärung                                                                                                |
+| ----- Wert ------   | Erklärung                                                                                                |
 | ------------------- | -------------------------------------------------------------------------------------------------------- |
 |  `<DetailTab>`      | Name der Detailtabelle                                                                                   |
 | `<Constraint>`      | Frei definierbarer Name. Mögliche Namenskonvention: FK_Detailtabelle_Mastertabelle, z.B. FK_Autoren_Ort. |
