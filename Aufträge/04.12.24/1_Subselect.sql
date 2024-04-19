@@ -133,7 +133,6 @@ SELECT
 FROM
     (
         SELECT
-            sparten_sparten_id,
             AVG(einkaufspreis) AS durchschnitt
         FROM
             buecher_has_sparten
