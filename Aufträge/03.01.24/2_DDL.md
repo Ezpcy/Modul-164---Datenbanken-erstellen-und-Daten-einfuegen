@@ -19,7 +19,7 @@ So lässt sich ein **DDL** Script mit MySQL Workbench generieren:
   ![alt text](../../x_ressources/1d.png)
 - Dann wählt man welche Statements man generieren lassen will:
   ![alt text](../../x_ressources/2d.png)
-- Ggf. filter:
+- Ggf. Filter:
   ![alt text](../../x_ressources/3d.png)
 - Ein SQL-Script wird generiert:
   ![alt text](../../x_ressources/4d.png)
