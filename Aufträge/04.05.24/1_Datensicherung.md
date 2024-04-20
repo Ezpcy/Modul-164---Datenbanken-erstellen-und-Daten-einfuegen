@@ -14,7 +14,7 @@ Die Hauptunterschiede sind wie folgt
 
 Ein Tutorial findet man hier [Gitlab-164](https://gitlab.com/ch-tbz-it/Stud/m164/-/blob/main/10_Auftraege_und_Uebungen/18_Datensicherung/Readme.md?plain=0)
 
-So sieht mein bash script aus für MariaDB der Datenbank `Tourenplaner`:
+So sieht das bash Script aus für MariaDB der Datenbank `Tourenplaner`:
 
 ```bash
 #!/bin/bash
